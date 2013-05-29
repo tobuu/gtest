@@ -15,7 +15,7 @@ public class Gtest {
      */
     public static void main(String[] args) {
         //B2 1
-        //2
+        //B2 2
         //3
         
     }
